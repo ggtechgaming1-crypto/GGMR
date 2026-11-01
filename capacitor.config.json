@@ -1,0 +1,8 @@
+{
+  "appId": "com.gg.messenger",
+  "appName": "GG Messenger",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
